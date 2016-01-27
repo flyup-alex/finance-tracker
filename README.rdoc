@@ -3,6 +3,12 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+1. Set aplication on some awesome server
+2. Get to the console and take: bundle install
+3. Get to the console from app directory and run: rake db:migrate
+4. Geto to the console and type in: rails server 
+5. It is all, your app is available at your localhost.
+
 Things you may want to cover:
 
 * Ruby version
